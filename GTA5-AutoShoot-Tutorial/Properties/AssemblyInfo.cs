@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GTA5-AutoShoot-SOURCE")]
+[assembly: AssemblyTitle("GTA5-Autoshoot-Tutorial")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GTA5-AutoShoot-SOURCE")]
+[assembly: AssemblyProduct("GTA5-Autoshoot-Tutorial")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("59aa799a-75e3-4abb-bdd4-eaa608624c6d")]
+[assembly: Guid("89b7b227-6fdb-4d9b-ae9b-124d3c305d97")]
 
 // Version information for an assembly consists of the following four values:
 //

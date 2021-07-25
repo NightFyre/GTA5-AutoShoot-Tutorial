@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace GTA5_AutoShoot_SOURCE.Properties
+namespace GTA5_Autoshoot_Tutorial.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace GTA5_AutoShoot_SOURCE.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GTA5_AutoShoot_SOURCE.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GTA5_Autoshoot_Tutorial.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GTA5_AutoShoot_SOURCE
+namespace GTA5_Autoshoot_Tutorial
 {
     static class Program
     {
